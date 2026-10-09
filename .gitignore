@@ -1,0 +1,13 @@
+# Browser profiles hold your eBay login session. Never commit them.
+user-data*/
+
+# Screenshots and page dumps can show your account and bids
+debug/
+*.png
+*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
